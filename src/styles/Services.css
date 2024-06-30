@@ -1,0 +1,12 @@
+.service-page {
+  padding: 20px;
+  text-align: center;
+}
+
+.service-page h1 {
+  color: #fff;
+}
+
+.service-page p {
+  color: #ddd;
+}

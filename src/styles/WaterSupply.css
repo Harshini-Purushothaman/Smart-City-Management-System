@@ -1,0 +1,18 @@
+/* Example styles for Water Supply page */
+
+.service-page {
+    background-color: #eaf6fa;
+    border: 1px solid #b3e0f2;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(6, 4, 4, 0.1);
+    padding: 70px;
+  }
+  
+  .service-page h1 {
+    color: #007bff;
+  }
+  
+  .service-page p {
+    color: #4e7d8a;
+  }
+  

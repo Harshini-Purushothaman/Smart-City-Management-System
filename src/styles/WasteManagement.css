@@ -1,0 +1,18 @@
+/* Example styles for Waste Management page */
+
+.service-page {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+  }
+  
+  .service-page h1 {
+    color: #333;
+  }
+  
+  .service-page p {
+    color: #666;
+  }
+  

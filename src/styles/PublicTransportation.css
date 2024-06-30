@@ -1,0 +1,18 @@
+/* Example styles for Public Transportation page */
+
+.service-page {
+    background-color: #d6e2fc;
+    border: 1px solid #9cb3f5;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+  }
+  
+  .service-page h1 {
+    color: #004085;
+  }
+  
+  .service-page p {
+    color: #31708f;
+  }
+  

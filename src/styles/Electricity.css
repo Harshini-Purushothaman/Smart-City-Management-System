@@ -1,0 +1,18 @@
+/* Example styles for Electricity page */
+
+.service-page {
+    background-color: #f9f4e1;
+    border: 1px solid #e3d69f;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+  }
+  
+  .service-page h1 {
+    color: #c97b00;
+  }
+  
+  .service-page p {
+    color: #8a6d3b;
+  }
+  
